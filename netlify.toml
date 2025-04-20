@@ -3,4 +3,4 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.121.1"  # or latest version you use locally
+  HUGO_VERSION = "v0.145.0"  # or latest version you use locally
