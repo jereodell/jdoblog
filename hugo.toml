@@ -2,3 +2,22 @@ baseURL = "https://jereodell.net"
 languageCode = 'en-us'
 title = '(In)Expressive Activity'
 theme = "ananke"
+enableRobotsTXT = true  # help SEO by allowing Google indexing
+
+[params]
+  description = "A personal website."
+  author = "Jere Odell"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
