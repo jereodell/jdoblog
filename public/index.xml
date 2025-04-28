@@ -6,8 +6,15 @@
     <description>Recent content on (In)Expressive Activity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2025 20:25:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 20:20:04 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 27 Apr 2025 20:20:04 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I have worked in &amp;ldquo;higher&amp;rdquo; education for twenty-five years (including a seven year break as a caregiver). I have some degree of experience in English literature, Bioethics, U.S. religion and culture, Wikipedia, and (most of all) academic librarianship.&lt;/p&gt;&#xA;&lt;p&gt;I garden, read, write, run, and commute by bicycle.&lt;/p&gt;&#xA;&lt;p&gt;I also have a fondness for plants, animals (including humans), and food.&lt;/p&gt;&#xA;&lt;p&gt;On this site, I do not name or link to my employer. I do not link to my professional profiles. I do not directly discuss my research. In other words, my speach is thus curtailed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
